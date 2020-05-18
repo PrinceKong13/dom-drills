@@ -1,0 +1,29 @@
+.h1 {
+  color: green;
+  cursor: pointer;
+}
+
+.h2 {
+  cursor: pointer;
+  color: red;
+}
+
+.h3 {
+  cursor: pointer;
+  color: blue;
+}
+
+.h4 {
+  cursor: pointer;
+  color: yellow;
+}
+
+.h5 {
+  cursor: pointer;
+  color: pink;
+}
+
+.h6 {
+  cursor: pointer;
+  color: purple;
+}
